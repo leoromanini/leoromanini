@@ -1,7 +1,7 @@
 ### Hi there! I'm Leonardo 👋
 ###### *(But you can call me Roma)*
 
-I'm a person that likes logical thinking, and of course, to code. Today Python is my favorite language but I'm also like lean new things :)
+I'm a person that likes logical thinking, and of course, to code. Today Python is my favorite language but I'm also like learn new things :)
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -34,7 +34,7 @@ I'm a person that likes logical thinking, and of course, to code. Today Python i
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoromanini&theme=buefy&layout=compact" />
 </a>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/leonardo-henrique-romanini-3b9593133/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Leonardo%20Romanini-blue?style=flat-square&logo=linkedin"></a>
