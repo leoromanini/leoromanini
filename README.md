@@ -25,7 +25,7 @@ I'm a person that likes logical thinking, and of course, to code. Today Python i
     ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
   
  - 🔧 &nbsp;
-  ![PyCharm://img.shields.io/badge/-PyCharm-333333?style=flat&logo=gitlab)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
  
@@ -38,7 +38,6 @@ I'm a person that likes logical thinking, and of course, to code. Today Python i
 
 <p align="center">
 <a href="https://www.linkedin.com/in/leonardo-henrique-romanini-3b9593133/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Leonardo%20Romanini-blue?style=flat-square&logo=linkedin"></a>
-
 <a href="mailto:leo.hromanini@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-leo.hromanini@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
